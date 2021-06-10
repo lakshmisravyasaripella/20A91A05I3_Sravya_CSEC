@@ -3,6 +3,8 @@ if name=="CSEC" or name=="CSEB" or name=="CSEA":
     print ("Valid Student")
 else:
     print ("Invalid Student")
-#Output:
+'''    
+Output:
 Enter NameCSEC
 Valid Student    
+'''
