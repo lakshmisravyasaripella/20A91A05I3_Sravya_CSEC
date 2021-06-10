@@ -9,11 +9,12 @@ if flag==2:
     print("It is a prime number")
 else:
     print("It is not a prime number")
-#Output:
+'''    
+Output:
 Enter any number91
 It is not a prime number
 
 Enter any number29
 It is a prime number
-    
+'''    
         
