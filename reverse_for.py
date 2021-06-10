@@ -6,7 +6,9 @@ for i in range(0,d):
     rev=(rev*10)+rem
     n=n//10
 print("The reverse of the given number is",rev)
-#Output:
+'''
+Output:
 Enter number79898649
 Enter the number of digits8
 The reverse of the given number is 94689897
+'''
