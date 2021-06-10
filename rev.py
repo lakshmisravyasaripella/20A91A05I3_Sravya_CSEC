@@ -5,6 +5,8 @@ while n>0:
     rev=(rev*10)+rem
     n=n//10
 print("The reverse of the given number is",rev)
-#Output:
+'''
+Output:
 Enter number534879
 The reverse of the given number is 978435
+'''
