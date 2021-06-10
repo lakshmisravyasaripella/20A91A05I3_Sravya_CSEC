@@ -8,8 +8,10 @@ if b%2==0:
     print("b is even")
 else:
     print("b is odd")
-#Output:
+'''    
+Output:
 a2486962336555
 b1334684356595478
 a is odd
 b is even
+'''
