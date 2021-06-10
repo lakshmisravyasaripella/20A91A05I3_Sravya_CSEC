@@ -5,10 +5,11 @@ total=a+b+c
 print("total=",total)
 average=(a+b+c)/3
 print("average=",average)
-#Output:
+'''
+Output:
 Enter number a9
 Enter number b3
 Enter number c6
 total= 18
 average= 6.0
-
+'''
