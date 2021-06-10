@@ -4,8 +4,10 @@ s=int(input("Enter step count"))
 while i<=n:
     print(i,end="\t")
     i=i+s
-#Output:
+'''    
+Output:
 Enter start value1
 Enter end value9
 Enter step count2
 1	3	5	7	9    
+'''
