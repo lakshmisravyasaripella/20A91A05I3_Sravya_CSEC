@@ -3,7 +3,8 @@ while i<=100:
     if i%10==5:
         print(i)
     i=i+1
-#Output:
+'''    
+Output:
 5
 15
 25
@@ -14,4 +15,4 @@ while i<=100:
 75
 85
 95    
-        
+'''        
