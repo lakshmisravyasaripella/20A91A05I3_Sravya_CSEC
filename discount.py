@@ -18,8 +18,9 @@ elif amount>5000:
 else:
     print("There is no discount")
     print("Total amount is",amount)
-#Output:
+'''    
+Output:
 Enter amount3800
 Discount is 1140.0
 Total amount is 2660.0     
-  
+'''  
