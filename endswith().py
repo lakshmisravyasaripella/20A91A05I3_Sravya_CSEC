@@ -1,0 +1,22 @@
+s="python"
+res=s.endswith("n")
+print(res)
+res=s.endswith("N")
+print(res)
+res=s.endswith("o")
+print(res)
+res=s.endswith("n",0,5)
+print(res)
+res=s.endswith("n",0,6)
+print(res)
+res=s.endswith("n",0)#only start index
+print(res)
+'''
+Output:
+True
+False
+False
+False
+True
+True
+'''
