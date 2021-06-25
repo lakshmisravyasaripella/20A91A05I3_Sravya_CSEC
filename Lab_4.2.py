@@ -3,7 +3,7 @@ b=input("Enter a string:")
 if (len(a)==len(b)):
     print("Both the strings are of equal length")
 else:
-    print("Both the strngs are not of equal length")
+    print("Both the strings are not of equal length")
 '''
 Output:
 Enter a string:Lucky
@@ -12,5 +12,5 @@ Both the strings are of equal length
 
 Enter a string:Sravya
 Enter a string:Harshitha
-Both the strngs are not of equal length
+Both the strings are not of equal length
 '''
