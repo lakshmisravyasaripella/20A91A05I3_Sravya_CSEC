@@ -9,8 +9,10 @@ else:
 Output:
 Enter a word:python
 Vowel exists
+
 Enter a word:scn
 Does not contain vowels
+
 Enter a word:Aditya
 Vowel exists
 '''
